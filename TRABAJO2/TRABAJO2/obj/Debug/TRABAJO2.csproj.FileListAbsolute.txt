@@ -1,0 +1,9 @@
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\TRABAJO2\obj\Debug\TRABAJO2.csprojResolveAssemblyReference.cache
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\TRABAJO2\bin\Debug\TRABAJO2.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\TRABAJO2\bin\Debug\TRABAJO2.pdb
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\TRABAJO2\obj\Debug\TRABAJO2.dll
+D:\Rances\Universidad\Ciclo VI\Evolucion de Software\TRABAJO2\TRABAJO2\obj\Debug\TRABAJO2.pdb
+D:\TRABAJO2 (1)\TRABAJO2\TRABAJO2\bin\Debug\TRABAJO2.dll
+D:\TRABAJO2 (1)\TRABAJO2\TRABAJO2\bin\Debug\TRABAJO2.pdb
+D:\TRABAJO2 (1)\TRABAJO2\TRABAJO2\obj\Debug\TRABAJO2.dll
+D:\TRABAJO2 (1)\TRABAJO2\TRABAJO2\obj\Debug\TRABAJO2.pdb
