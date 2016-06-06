@@ -12,3 +12,10 @@ D:\TRABAJO2 (1)\TRABAJO2\UnitTest\bin\Debug\TRABAJO2.pdb
 D:\TRABAJO2 (1)\TRABAJO2\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
 D:\TRABAJO2 (1)\TRABAJO2\UnitTest\obj\Debug\UnitTest.dll
 D:\TRABAJO2 (1)\TRABAJO2\UnitTest\obj\Debug\UnitTest.pdb
+D:\TRABAJO2\TRABAJO2\UnitTest\bin\Debug\UnitTest.dll
+D:\TRABAJO2\TRABAJO2\UnitTest\bin\Debug\UnitTest.pdb
+D:\TRABAJO2\TRABAJO2\UnitTest\bin\Debug\TRABAJO2.dll
+D:\TRABAJO2\TRABAJO2\UnitTest\bin\Debug\TRABAJO2.pdb
+D:\TRABAJO2\TRABAJO2\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\TRABAJO2\TRABAJO2\UnitTest\obj\Debug\UnitTest.dll
+D:\TRABAJO2\TRABAJO2\UnitTest\obj\Debug\UnitTest.pdb

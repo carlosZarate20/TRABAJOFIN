@@ -127,7 +127,7 @@ namespace UnitTest
         public void TestUltimaLetra()
         {
             Class1 clase = new Class1();
-            var texto = new StreamReader("archivo1.txt");
+            var texto = new StreamReader("C://archivo1.txt");
 
             string letrasString = texto.ToString();
             List<string> LTexto = letrasString.Select(c => c.ToString()).ToList();
@@ -140,7 +140,7 @@ namespace UnitTest
         public void TestPrimeraLetra()
         {
             Class1 clase = new Class1();
-            var texto = new StreamReader("archivo2.txt");
+            var texto = new StreamReader("C://archivo2.txt");
             string letrasString = texto.ReadToEnd();
 
             List<string> LTexto = letrasString.Select(c => c.ToString()).ToList();
@@ -152,7 +152,7 @@ namespace UnitTest
         public void TestConteo()//misma longitud
         {
             Class1 clase = new Class1();
-            var texto = new StreamReader("archivo3.txt");
+            var texto = new StreamReader("C://archivo3.txt");
 
             string letrasString = texto.ToString();
             List<string> LTexto = letrasString.Select(c => c.ToString()).ToList();
@@ -166,7 +166,7 @@ namespace UnitTest
         public void TestSumaTexto()//suma
         {
             Class1 clase = new Class1();
-            var leer = new StreamReader("archivo4.txt");
+            var leer = new StreamReader("C://archivo4.txt");
             string num = leer.ReadToEnd();
 
             var numeros = num.Split(',').Select(Int32.Parse).ToList();
@@ -184,7 +184,7 @@ namespace UnitTest
         public void TestMultplicacionTexto()//multiplicacion
         {
             Class1 clase = new Class1();
-            var leer = new StreamReader("archivo5.txt");
+            var leer = new StreamReader("C://archivo5.txt");
             string num = leer.ReadToEnd();
 
             var numeros = num.Split(',').Select(Int32.Parse).ToList();
@@ -202,7 +202,7 @@ namespace UnitTest
         public void TestSumPrimeroUltimoTexto()//suma entre el primero y el ultimo
         {
             Class1 clase = new Class1();
-            var leer = new StreamReader("archivo6.txt");
+            var leer = new StreamReader("C://archivo6.txt");
             string num = leer.ReadToEnd();
 
             var numeros = num.Split(',').Select(Int32.Parse).ToList();
